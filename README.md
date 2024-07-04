@@ -12,4 +12,5 @@ I use VS Code as my development environment and C# as my programming language.
 - [W3Schools](https://www.w3schools.com/cs/index.php)
 
 # Future Work
-- Place ideas here
+- Implement better terminal display
+- Add more items
