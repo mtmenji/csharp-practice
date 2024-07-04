@@ -1,0 +1,15 @@
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\bin\Debug\net8.0\DiceGame.exe
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\bin\Debug\net8.0\DiceGame.deps.json
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\bin\Debug\net8.0\DiceGame.runtimeconfig.json
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\bin\Debug\net8.0\DiceGame.dll
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\bin\Debug\net8.0\DiceGame.pdb
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\DiceGame.AssemblyInfo.cs
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\DiceGame.sourcelink.json
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\DiceGame.dll
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\refint\DiceGame.dll
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\DiceGame.pdb
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\DiceGame.genruntimeconfig.cache
+C:\Users\mtmen\Documents\BYU-Idaho\CSE 310 - Applied Programming\csharp-practice\obj\Debug\net8.0\ref\DiceGame.dll
